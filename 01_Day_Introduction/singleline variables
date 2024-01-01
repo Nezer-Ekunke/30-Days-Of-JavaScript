@@ -1,0 +1,5 @@
+let firstName = 'Nezer'
+let lastName = 'Ekunke'
+let age = 23
+let maritalStatus = `single`
+let country = `Nigeria`
